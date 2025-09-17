@@ -4,7 +4,7 @@ def sub(a,b):
     return a-b
 def mul(a,b):
     return a*b
-def div(a,b):
+def divi(a,b):
     return a/b
 def sq(a):
     return a*a
@@ -15,6 +15,6 @@ def main():
     print(add(a,b))
     print(sub(a,b))
     print(mul(a,b))
-    print(div(a,b))
+    print(divi(a,b))
     print(sq(a,b))
   
